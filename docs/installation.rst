@@ -39,11 +39,16 @@ Or download the `tarball`_:
 
     $ curl -OJL https://github.com/arfathpasha/single_cell_contaminants/tarball/master
 
-Once you have a copy of the source, you can install it with:
+Once you have a copy of the source, you can set up it with:
 
 .. code-block:: console
 
-    $ python setup.py install
+      $ virtualenv venv
+      $ source venv/bin/activate
+      $ pip install -r requirements_dev.txt
+      $ make test
+..    $ python setup.py install
+      
 
 
 .. _Github repo: https://github.com/arfathpasha/single_cell_contaminants
