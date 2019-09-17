@@ -19,8 +19,8 @@ single_cell_contaminants
 Identifying contaminants in single cell reads
 
 
-* Free software: MIT license
-* Documentation: https://single-cell-contaminants.readthedocs.io.
+.. * Free software: MIT license
+.. * Documentation: https://single-cell-contaminants.readthedocs.io.
 
 
 Features
