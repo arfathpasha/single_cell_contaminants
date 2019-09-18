@@ -20,6 +20,9 @@ https://github.com/shahcompbio/docker_containers/tree/master/singlecellpipeline/
 code to run fastq screen at:
 https://github.com/shahcompbio/single_cell_pipeline/blob/master/single_cell/workflows/align/fastqscreen.py
 
+Fastqscreen output description:
+https://github.com/shahcompbio/single_cell_pipeline/blob/master/docs/description/organism_filter.md
+
 code to run biobloom:
 biobloom:
 https://github.com/shahcompbio/single_cell_pipeline/blob/master/single_cell/utils/bamutils.py#L156
